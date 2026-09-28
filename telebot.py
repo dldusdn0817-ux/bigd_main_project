@@ -38,3 +38,6 @@ if res.status_code == 200:
     # 출력된 내용 중 result 리스트 안의 각 항목 → message → chat → id 가 바로 내 TELEGRAM_CHAT_ID다.
     # (직접 보내려는 메시지가 안 보이면, 텔레그램에서 봇에게 메시지를 먼저 보낸 뒤 다시 실행해본다.)
     print(json.loads(res.text))
+
+print(response.status_code)
+print(response.text)
