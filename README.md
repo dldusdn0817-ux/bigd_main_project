@@ -1,0 +1,11 @@
+C:\Users\scood\OneDrive\사진\바탕 화면\leeyeonwoo\bigd_main_project\07-WHATS-NEW.md
+C:\Users\scood\OneDrive\사진\바탕 화면\leeyeonwoo\bigd_main_project\check.py
+C:\Users\scood\OneDrive\사진\바탕 화면\leeyeonwoo\bigd_main_project\FAQ.md
+C:\Users\scood\OneDrive\사진\바탕 화면\leeyeonwoo\bigd_main_project\my_first_chart.png
+C:\Users\scood\OneDrive\사진\바탕 화면\leeyeonwoo\bigd_main_project\my_first_chart.py
+C:\Users\scood\OneDrive\사진\바탕 화면\leeyeonwoo\bigd_main_project\notify_stock_price_코드만.pdf
+C:\Users\scood\OneDrive\사진\바탕 화면\leeyeonwoo\bigd_main_project\notify_stock_price.py
+C:\Users\scood\OneDrive\사진\바탕 화면\leeyeonwoo\bigd_main_project\requirements.txt
+C:\Users\scood\OneDrive\사진\바탕 화면\leeyeonwoo\bigd_main_project\telebot.py
+C:\Users\scood\OneDrive\사진\바탕 화면\leeyeonwoo\bigd_main_project\watchlist.csv
+C:\Users\scood\OneDrive\사진\바탕 화면\leeyeonwoo\bigd_main_project\watchlist.example.csv
